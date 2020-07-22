@@ -5,3 +5,4 @@ mul=a*b
 print(sum)
 print(mul)
 print('Hello World')
+print('added new line')
